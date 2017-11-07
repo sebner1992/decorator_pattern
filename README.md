@@ -15,11 +15,11 @@ Can you spot other implementations of the decorator pattern in this package?
 Write two decorator classes: One that decorates an existing Java class for 
 (i) reading and one for (ii) writing character streams.
 
-Use the following class names:
+Use the following class names:  
 (i) ``MorseReader``  
 (ii) ``ROT13Writer``  
 
-Make sure that each one of your two decorator classes decorates an existing Java class from the ``java.io`` package. Which class should you decorate, such that you really benefit from the pattern.
+Make sure that each one of your two decorator classes decorates an existing Java class from the ``java.io`` package. Which class should you decorate, such that you really benefit from the pattern?
 
 Note: the assignment is about CHARACTER streams (see above).
 
