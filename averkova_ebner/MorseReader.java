@@ -1,5 +1,3 @@
-package averkova_ebner;
-
 import java.io.IOException;
 import java.io.Reader;
 

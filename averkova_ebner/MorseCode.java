@@ -1,5 +1,3 @@
-package averkova_ebner;
-
 import java.util.HashMap;
 
 public class MorseCode
