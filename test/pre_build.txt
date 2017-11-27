@@ -1,0 +1,3 @@
+Checking package averkova_ebner ...
+Java files could not be copied from a5-res/a5-res-averkova_ebner/src/averkova_ebner/
+Done
